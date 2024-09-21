@@ -1,6 +1,6 @@
 # Coinbase Paymaster Tutorial Frontend
 
-[Video Demo](https://youtu.be/hvO0QB2tZhA)
+[![Video Demo](https://img.youtube.com/vi/hvO0QB2tZhA/0.jpg)](https://youtu.be/hvO0QB2tZhA)
 
 ## Usage
 
